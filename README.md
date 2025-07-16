@@ -88,7 +88,7 @@ remediation, and performance engineering.
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.6.4, < 1.7.4 |
+| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.6.4, < 2.0.0 |
 | <a name="requirement_aws"></a> [aws](#requirement\_aws) | >= 5.32.1 |
 | <a name="requirement_tls"></a> [tls](#requirement\_tls) | >= 3.0.0 |
 
